@@ -672,7 +672,7 @@ https://live.obslivestream.com/cdeportivo/index.m3u8
 https://sport.livedoomovies.com:4431/02_PremierHD1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s.id/1d1Gl ",Bein sports 1
-#EXTVLCOPT:http-user-agent=NontonTV/2.6(Android11)
+#EXTVLCOPT:http-user-agent=NontonTV/2.6(Android5.1)
 https://sport.livedoomovies.com:4431/02_epl1_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://s.id/1d1HB ",Bein sports 3
