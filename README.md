@@ -664,7 +664,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/ind
 #EXTINF:0 tvg-country="AR" tvg-logo="https://www.elsafa-nwes.com/wp-content/uploads/2019/11/Abu-Dhabi-Sports-2.jpg " group-title="Sports",AD Sports 2
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 
-#EXTINF:0 tvg-country="AR" tvg-logo=" https://dash.tvzinos.com/assets/images/channel/323783.jpg" group-title="Sports",C Deportivo
+#EXTINF:0 tvg-country="AR" tvg-logo="https://tvzinos.com/uploads/cache/channel_thumb/uploads/jpg/a82beba7514ea01cf1931c63a53926f6.jpg " group-title="Sports",C Deportivo
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
 
