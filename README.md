@@ -28,7 +28,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="iNews.Id" tvg-logo="https://cdn.okezone.com/underwood/revamp/2020/img/INews.png " group-title="National TV",iNewsTV
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?auth_key=1677032520-b8b98aea755a0ed6e35a6f5f7c58ca55-IAKhcAUkpq4i6GiRjvMqmMpVMzQAEu1dGOyuDIdL-56238573f13668154ac5907cc2073392
+https://inews-linier.rctiplus.id/inews-sdi.m3u8
 https://anevi-live-channel-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
