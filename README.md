@@ -9,7 +9,7 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="RCTI.Id" tvg-logo="https://cdn.okezone.com/underwood/img/tv/streaming/rcti.png " group-title="National TV",RCTI
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?auth_key=1677032015-fbfd7e2269996af1de3c22e16e43c0fe-H3CZVIqcwasIC7XqZvhcdISoHqMsRHGrbDwDeQ17-02ac13ce7271af39f4e58970658ead0e
 https://anevi-live-channel-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 
