@@ -21,7 +21,8 @@ https://anevi-live-channel-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="MNCTV.Id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png " group-title="National TV",MNCTV
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?auth_key=1677033737-5326bb6a29e80cb29aa31ec7d9e433e5-daMjd72sUnbMB0E3QCv652PbprLZcalLY2PKDo9o-0ba80f311d4fb08e0a52c3a46d3bfc9b
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?auth_key=1677034894-9c8084bfbffd49d7a5ff0a7064957d5a-0-475cb1f57047f801362467c745a65d2a
+
 https://anevi-live-channel-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
